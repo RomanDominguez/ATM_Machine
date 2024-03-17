@@ -1,3 +1,13 @@
+# ATM_Machine React App
+
+In This project we use the method of Simple component in React App doing this ATM_Machine app do the following:
+
+> Add validation so users can’t withdraw more money than the account balance
+> Modify the user interface to require users to select deposit or withdraw before an input field is visible
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
